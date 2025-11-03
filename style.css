@@ -1,0 +1,23 @@
+.right-menu{
+    float: right;
+}
+nav a {
+    text-decoration: none;
+    margin: 0 20px;
+    color: dimgrey(74,74,74);
+}
+nav{
+    background-color: rgba(105, 105, 105, 0.895);
+    padding: 10px 20;
+    margin: -8px;
+
+}
+main {
+    text-align: center;
+    color: rgba(47, 44, 44, 0.888);
+}
+.search{
+    text-align: center;
+    margin: 20px 0;
+
+}
