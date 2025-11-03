@@ -4,7 +4,7 @@
 nav a {
     text-decoration: none;
     margin: 0 20px;
-    color: dimgrey(74,74,74);
+    color: rgb(224, 239, 238);
 }
 nav{
     background-color: rgba(105, 105, 105, 0.895);
@@ -19,5 +19,21 @@ main {
 .search{
     text-align: center;
     margin: 20px 0;
+
+}
+
+.artikujt img{
+    border-radius: 12px;
+    max-width: 320px;
+    max-height: 300px;
+}
+article{
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+}
+.artikujt{
+color: rgb(89, 184, 187);
+background-color:rgb(60, 60, 112) ;
 
 }
